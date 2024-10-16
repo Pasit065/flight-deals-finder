@@ -1,0 +1,7 @@
+city_from,city_to,price,trip_start_date,trip_end_date,time,date
+Bangkok-BKK,Tokyo-NRT,341,2024-10-17,2024-11-12,19:48:07,2024-10-01
+Bangkok-BKK,Sydney-SYD,411,2024-12-03,2024-12-11,19:48:07,2024-10-01
+Bangkok-BKK,Kuala Lumpur-KUL,259,2024-11-04,2024-11-19,19:48:07,2024-10-01
+Bangkok-BKK,Tokyo-NRT,345,2024-10-08,2024-11-01,19:49:53,2024-10-01
+Bangkok-BKK,Sydney-SYD,426,2024-12-10,2024-12-30,19:49:53,2024-10-01
+Bangkok-BKK,Kuala Lumpur-KUL,131,2024-10-09,2024-10-16,19:49:53,2024-10-01

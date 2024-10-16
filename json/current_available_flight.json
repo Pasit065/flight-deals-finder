@@ -1,0 +1,72 @@
+[
+  {
+    "finisihed_sms_sending_script_at": "date: 2024-10-01 time: 19:48:07",
+    "flights_data": [
+      {
+        "city_from": "Bangkok-BKK",
+        "city_to": "Tokyo-NRT",
+        "price": 341,
+        "trip_start_date": "2024-10-17",
+        "trip_end_date": "2024-11-12",
+        "sms_message": "Low price alert! Only $341 \nto fly from Bangkok-BKK to Tokyo-NRT, \nFrom 2024-10-17 to 2024-11-12.",
+        "time": "19:48:07",
+        "date": "2024-10-01"
+      },
+      {
+        "city_from": "Bangkok-BKK",
+        "city_to": "Sydney-SYD",
+        "price": 411,
+        "trip_start_date": "2024-12-03",
+        "trip_end_date": "2024-12-11",
+        "sms_message": "Low price alert! Only $411 \nto fly from Bangkok-BKK to Sydney-SYD, \nFrom 2024-12-03 to 2024-12-11.",
+        "time": "19:48:07",
+        "date": "2024-10-01"
+      },
+      {
+        "city_from": "Bangkok-BKK",
+        "city_to": "Kuala Lumpur-KUL",
+        "price": 259,
+        "trip_start_date": "2024-11-04",
+        "trip_end_date": "2024-11-19",
+        "sms_message": "Low price alert! Only $259 \nto fly from Bangkok-BKK to Kuala Lumpur-KUL, \nFrom 2024-11-04 to 2024-11-19.",
+        "time": "19:48:07",
+        "date": "2024-10-01"
+      }
+    ]
+  },
+  {
+    "finisihed_sms_sending_script_at": "date: 2024-10-01 time: 19:49:53",
+    "flights_data": [
+      {
+        "city_from": "Bangkok-BKK",
+        "city_to": "Tokyo-NRT",
+        "price": 345,
+        "trip_start_date": "2024-10-08",
+        "trip_end_date": "2024-11-01",
+        "sms_message": "Low price alert! Only $345 \nto fly from Bangkok-BKK to Tokyo-NRT, \nFrom 2024-10-08 to 2024-11-01.",
+        "time": "19:49:53",
+        "date": "2024-10-01"
+      },
+      {
+        "city_from": "Bangkok-BKK",
+        "city_to": "Sydney-SYD",
+        "price": 426,
+        "trip_start_date": "2024-12-10",
+        "trip_end_date": "2024-12-30",
+        "sms_message": "Low price alert! Only $426 \nto fly from Bangkok-BKK to Sydney-SYD, \nFrom 2024-12-10 to 2024-12-30.",
+        "time": "19:49:53",
+        "date": "2024-10-01"
+      },
+      {
+        "city_from": "Bangkok-BKK",
+        "city_to": "Kuala Lumpur-KUL",
+        "price": 131,
+        "trip_start_date": "2024-10-09",
+        "trip_end_date": "2024-10-16",
+        "sms_message": "Low price alert! Only $131 \nto fly from Bangkok-BKK to Kuala Lumpur-KUL, \nFrom 2024-10-09 to 2024-10-16.",
+        "time": "19:49:53",
+        "date": "2024-10-01"
+      }
+    ]
+  }
+]
